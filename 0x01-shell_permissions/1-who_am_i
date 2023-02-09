@@ -1,2 +1,2 @@
-#!/bin/bash
-whoimi
+#!/bin/bash 
+whoimi echo "$USER"
